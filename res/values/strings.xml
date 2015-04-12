@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zombie pocket</string>
+    <string name="hello_world">zombie</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">haha</string>
+
+</resources>
